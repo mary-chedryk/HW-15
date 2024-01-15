@@ -28,7 +28,6 @@ body {
 .item:nth-child(2) {
   background-color: rgb(10, 10, 194);
   order: 4;
-
   flex-basis: calc(100% / 3);
 }
 
